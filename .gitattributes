@@ -1,0 +1,2 @@
+fake.csv filter=lfs diff=lfs merge=lfs -text
+true.csv filter=lfs diff=lfs merge=lfs -text
